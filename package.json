@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "electron": "^20.2.0"
+  },
+  "scripts": {
+    "start": "electron ./src"
   }
 }
